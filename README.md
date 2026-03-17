@@ -136,5 +136,5 @@ jupyter notebook notebooks/02_eda.ipynb
 
 ## Author
 
-Miguel — Aeronautical Engineer & IT Specialist transitioning into data analysis.
+Miguel — Aeronautical Engineer focused on systems, reliability, and data.
 [LinkedIn](https://www.linkedin.com/in/miguel-restrepo-data-science/) · [GitHub](https://github.com/miguelRepo)

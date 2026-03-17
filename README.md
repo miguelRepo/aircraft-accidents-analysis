@@ -63,8 +63,7 @@ overlap, suggesting age alone is a weak predictor of whether an accident
 turns fatal.
 
 > **Note:** age is a crude proxy for experience. Total flight hours would
-> be a sharper measure and is a natural extension of this analysis using
-> the `flight_time` table.
+> be a sharper measure and is a natural extension of this analysis.
 
 ---
 
@@ -74,8 +73,8 @@ turns fatal.
 
 | Condition | Accidents | Fatalities | Fatality rate |
 |-----------|----------:|----------:|--------------|
-| VMC       | 23,199    | 6,293     | 27.1%        |
-| IMC       | 1,173     | 1,822     | 155.3%       |
+| VMC       | 23,199    | 6,293     | 0.271         |
+| IMC       | 1,173     | 1,822     | 1.553        |
 
 VMC accidents are **20× more frequent** — most general aviation flying happens
 in visual conditions. But IMC accidents produce **1.55 fatalities per accident

@@ -3,9 +3,7 @@
 Exploratory data analysis of **18,498 aviation accidents** recorded by the
 National Transportation Safety Board (NTSB) between 2008 and 2025.
 
-Built as a portfolio project by an aeronautical engineer turned data analyst —
-domain knowledge shapes the questions asked, particularly around flight phases,
-weather conditions, and human factors.
+Built as a portfolio project, with a focus on flight phases, weather conditions, and human factors.
 
 ---
 

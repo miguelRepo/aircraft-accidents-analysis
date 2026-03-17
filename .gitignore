@@ -2,4 +2,6 @@ venv/
 __pycache__/
 .ipynb_checkpoints/
 *.pyc
-data/*
+data/*.mdb
+data/*.db
+data/*.zip
